@@ -19,7 +19,7 @@ Site para o cadastro de produtos utilizando JavaScript para integrar as informa�
 <hr>
 
 ### Está online? 📡
-SIM! Basta [clicar aqui](-----link netlify-----) para visualizar o site que está hospedado nos servidores da Netlify.
+SIM! Basta [clicar aqui](https://cadastro-produtos-dnc.netlify.app/) para visualizar o site que está hospedado nos servidores da Netlify.
 <hr>
 
 by Murillo Couto<br>
